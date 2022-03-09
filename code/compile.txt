@@ -1,0 +1,4 @@
+pyuic5 -o xdsp48_gui.py ui/xdsp48_gui.ui
+
+
+pyrcc5 -o ui_res_rc.py ui/ui_res.qrc

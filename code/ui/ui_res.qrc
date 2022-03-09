@@ -1,0 +1,46 @@
+<RCC>
+  <qresource prefix="image">
+    <file>dsp.png</file>
+    <file>w_pfb.png</file>
+    <file>f_p.png</file>
+    <file>a_sum.png</file>
+    <file>SUM_W1.png</file>
+    <file>SUM_W2.png</file>
+    <file>m_l_j0.png</file>
+    <file>m_l_j1.png</file>
+    <file>m_l_j2.png</file>
+    <file>m_l_j3.png</file>
+    <file>m_l_nop.png</file>
+    <file>f_c.png</file>
+    <file>m_dwnp.png</file>
+    <file>m_nop.png</file>
+    <file>m_upp.png</file>
+    <file>f_a1.png</file>
+    <file>f_a2.png</file>
+    <file>f_ad.png</file>
+    <file>f_b1.png</file>
+    <file>f_b2.png</file>
+    <file>f_d1.png</file>
+    <file>g_and.png</file>
+    <file>dsp48_tool.png</file>
+    <file>dsp48_tool.ico</file>
+    <file>med_w.png</file>
+    <file>long_w.png</file>
+    <file>dsp_w.png</file>
+    <file>long_w.png</file>
+    <file>z_long_w.png</file>
+    <file>z_short_w.png</file>
+    <file>pre_add.png</file>
+    <file>w_d1.png</file>
+    <file>short_w.png</file>
+    <file>A1_WtA2.png</file>
+    <file>m1_zero.png</file>
+    <file>A1_W.png</file>
+    <file>A1_W_I.png</file>
+    <file>A1_W_O.png</file>
+    <file>A2_W.png</file>
+    <file>A2_W_I.png</file>
+    <file>A2_W_O.png</file>
+    <file>A2_W_XMUX.png</file>
+  </qresource>
+</RCC>
